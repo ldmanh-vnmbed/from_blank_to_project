@@ -1,0 +1,5 @@
+- Read full document of cmake at: https://cmake.org/cmake/help/latest/
+- Try to build small to big
+- If build script cannot run. Try: chmod +x run_all.sh
+- In the vscode. Install extension CMake, CMake Tools, CMake Language Support
+- CMakeLists.txt is CMakeLists.txt, not CMAKELIST.TXT or cmakelists.txt. Just CMakeLists.txt with C and L is uppercase

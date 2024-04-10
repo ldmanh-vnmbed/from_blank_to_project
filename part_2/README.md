@@ -1,0 +1,1 @@
+Write a calculator lib (just sum Function, minus Function) and write some math in main.cpp then build with cmake
